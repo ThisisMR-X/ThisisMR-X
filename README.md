@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ThisisMR-X
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Java
+- 📫 How to reach me by email
